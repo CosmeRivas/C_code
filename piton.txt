@@ -1,0 +1,24 @@
+l=[17,38,10, 25,72]
+
+l.index(10)
+#mostrar el espacio que ocupa un numero dentro de una cadena
+
+l.remuve()
+#eliminar un numero en una cadena
+
+max(l)
+#numero maximo
+
+min(l)
+#numero minimo de una cadena
+
+sum(l)
+#suma de los numero de una cadena
+
+count(17)
+#cuantas veces esta un numero en una cadena
+
+D={'A': 4, 3:8, 5:'Y', 6:2}
+D[6]
+2
+#LOS DICCIONARIOS
